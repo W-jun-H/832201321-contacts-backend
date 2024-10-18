@@ -21,7 +21,7 @@ A modern contact management system built with Vue 3 and Spring Boot, featuring a
 
 ```bash
 # Clone the repository
-git clone https://github.com/W-jun-H/832201321-contacts-backend/edit/main/README.md
+git clone https://github.com/W-jun-H/832201321-contacts-backend
 cd contact-management-system/backend
 
 # Install dependencies
